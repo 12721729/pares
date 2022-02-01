@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+body{
+	
+	margin: 0 0 2em;
+	display: block;
+	border-left: orange 5px solid;
+	border-right: orange 5px solid;
+	border-bottom: orange 20px solid;
+	border-bottom: orange 20px solid;
+}
+h1 {
+	text-align: center;
+	background-color: orange;
+	padding: 1px;
+	margin: 0;
+	color: white;
+	font-family: 'Sriracha', cursive;
+}
+.main{
+	background-color: orange;
+}
+.nav {
+	background-color: lightblue;
+	text-align: justify;
+	padding-left: 5%;
+	padding-top: 1%;
+}
+
+.home {
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+
+.steve {
+	width: 250px;
+	height: 220px;
+	float: left;
+	position: relative;
+	bottom: 2em;
+}
+
+.azul {
+	border-top: 30px blue solid;
+	border-bottom: 30px blue solid;
+}
+
+.azulclaro {
+	margin-top: 40px;
+	background-color: #66ccff;
+	padding-top: 1em;
+	padding-bottom: 2em;
+}
+
+.rojo {
+	border-top: 0.9em red solid;
+	border-bottom: 0.9em red solid;
+	color: red;
+}
+
+.naranja {
+	background-color: #ffa062;
+	padding: 0.5em;
+	position: relative;
+	top: 1px;
+}
+
+.mas {
+	background-color: #ff6600;
+	padding: 2em;
+	position: relative;
+	top: 5px;
+}
+
+
+.derecha {
+	width: 200px;
+	height: 180px;
+	float: right;
+	position: relative;
+	bottom: -10px;
+}
+
+.end {
+	background-color: coral;
+	text-align: center;
+}
+
+.amarillo {
+	background-color: yellow;
+}
+
+.color {
+	color: blue;
+}
+.lista{
+	background-color: white;
+	border-right: orange 5px solid;
+	border-left: orange 50px solid;
+	border-bottom: orange 20px solid;
+	border-bottom: orange 20px solid;
+}
+ul {
+  list-style-type: katakana-iroha;
+}
